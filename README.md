@@ -27,6 +27,7 @@ Current Talks:
 2019:
 =====
 
+* 29 oct: Laravel Copenhagen (Denmark): I just became team-lead, now what
 * 16 oct: University College Ghent (Belgium): I just became team-lead, now what
 * 26 sept: DIJ / LIVE! Ode aan de Code (Netherlands): Let's get you geared up to tackle legacy code
 * 17 sept: PHPWVL (Belgium): I just became team-lead, now what
